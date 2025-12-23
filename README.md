@@ -1,5 +1,6 @@
 # Terms-and-conditions-of-Shinobi-alliance-
 The terms and conditions for every bot made by Shinobi alliance discord bot development team.
+
 1️⃣ Acceptance of Terms
 By inviting or using this bot in any server, you agree to follow these Terms & Conditions as well as Discord’s Terms of Service.
 
